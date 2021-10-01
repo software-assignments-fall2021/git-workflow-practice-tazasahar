@@ -6,3 +6,12 @@ For the last year, I have been developing a SAAS product for the global auto par
 
 From Mohammed Uddin
 This article in interesting and the author seemed very enthusiastic. I wonder if serverless really is the future.
+
+### Jennifer Zeng 
+
+Serverless, a cloud-native development model, allows developers to build and run applications without having to manage servers.
+There are still servers in serverless, but they are abstracted away from app development. A cloud provider handles the routine 
+work of provisioning, maintaining, and scaling the server infrastructure. Developers can simply package their code in 
+containers for deployment. Containerization isolates services from one another, making the deployment smoother and frictionless. 
+Also it reduces the possibility of collateral breakdowns. 
+
